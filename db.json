@@ -1,0 +1,28 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "comment": "I hate this."
+    },
+    {
+      "id": 2,
+      "comment": "Why did you do this?"
+    },
+    {
+      "id": 3,
+      "comment": "Who is this even for?"
+    },
+    {
+      "comment": "This is the worst website I've ever seen.",
+      "id": 4
+    },
+    {
+      "comment": "\"A strong no-thank-you.\" -Matt",
+      "id": 5
+    },
+    {
+      "comment": "\"Poop\" -Briana",
+      "id": 6
+    }
+  ]
+}
